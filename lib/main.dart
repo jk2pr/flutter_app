@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return new MaterialApp(
         title: 'My First Flutter App',
         home: new Scaffold(
-            appBar: new AppBar(
+        appBar: new AppBar(
               title: new Text('GoGit'),
             ),
             body: new MyHomePage(
